@@ -1,0 +1,20 @@
+uid,reported_date,victim_last,victim_first,victim_race,victim_age,victim_sex,city,state,lat,lon,disposition
+Alb-000001,20100504,GARCIA,JUAN,Hispanic,78,Male,Albuquerque,NM,35.0957885,-106.5385549,Closed without arrest
+Alb-000002,20100216,MONTOYA,CAMERON,Hispanic,17,Male,Albuquerque,NM,35.0568104,-106.715321,Closed by arrest
+Alb-000003,20100601,SATTERFIELD,VIVIANA,White,15,Female,Albuquerque,NM,35.086092,-106.695568,Closed without arrest
+Alb-000004,20100101,MENDIOLA,CARLOS,Hispanic,32,Male,Albuquerque,NM,35.0784929,-106.5560938,Closed by arrest
+Alb-000005,20100102,MULA,VIVIAN,White,72,Female,Albuquerque,NM,35.1303568,-106.5809862,Closed without arrest
+Alb-000006,20100126,BOOK,GERALDINE,White,91,Female,Albuquerque,NM,35.15111,-106.537797,Open/No arrest
+Alb-000007,20100127,MALDONADO,DAVID,Hispanic,52,Male,Albuquerque,NM,35.1117847,-106.7126144,Closed by arrest
+Alb-000008,20100127,MALDONADO,CONNIE,Hispanic,52,Female,Albuquerque,NM,35.1117847,-106.7126144,Closed by arrest
+Alb-000009,20100130,MARTIN-LEYVA,GUSTAVO,White,56,Male,Albuquerque,NM,35.0753799,-106.5534583,Open/No arrest
+Alb-000010,20100210,HERRERA,ISRAEL,Hispanic,43,Male,Albuquerque,NM,35.0659296,-106.5722875,Open/No arrest
+Alb-000011,20100212,BARRIUS-CAMPANIONI,HECTOR,Hispanic,20,Male,Albuquerque,NM,35.0773747,-106.5605695,Closed by arrest
+Alb-000012,20100218,LUJAN,KEVIN,White,Unknown,Male,Albuquerque,NM,35.077011,-106.56491,Closed without arrest
+Alb-000013,20100222,COLLAMORE,JOHN,Hispanic,46,Male,Albuquerque,NM,35.0640762,-106.6082814,Open/No arrest
+Alb-000014,20100306,CHIQUITO,CORIN,Other,16,Male,Albuquerque,NM,35.0414912,-106.7421466,Closed by arrest
+Alb-000015,20100308,TORRES,HECTOR,Hispanic,54,Male,Albuquerque,NM,35.0706565,-106.6158449,Closed by arrest
+Alb-000016,20100308,GRAY,STEFANIA,White,43,Female,Albuquerque,NM,35.0706565,-106.6158449,Closed by arrest
+Alb-000017,20100322,LEYVA,JOEL,Hispanic,52,Male,Albuquerque,NM,35.0790821,-106.4959493,Closed by arrest
+Alb-000018,20100323,DAVID,LARRY,White,52,Male,Albuquerque,NM,,,Closed by arrest
+Alb-000019,20100402,BRITO,ELIZABETH,White,22,Female,Albuquerque,NM,35.1104043,-106.5236679,Closed by arrest
