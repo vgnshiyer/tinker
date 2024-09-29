@@ -10,7 +10,9 @@ func main() {
 	log.SetPrefix("greeting: ")
 	log.SetFlags(0)
 
-	msg, err := greeting.Hello("Vignesh")
+	names := []string{"guddu", "shaakaal"};
+
+	msg, err := greeting.Hellos(names)
 	if err != nil {
 		log.Fatal(err)
 	}
