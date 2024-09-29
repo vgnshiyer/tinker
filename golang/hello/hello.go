@@ -1,9 +1,18 @@
 package main
 
-import "fmt"
-
-import "rsc.io/quote"
+import (
+	"example/greeting"
+	"fmt"
+	"log"
+)
 
 func main() {
-	fmt.Println(quote.Go())
+	log.SetPrefix("greeting: ")
+	log.SetFlags(0)
+
+	msg, err := greeting.Hello("")
+	if err != nil {
+		log.Fatal(err)
+	}
+	fmt.Println(msg)
 }
