@@ -1,12 +1,12 @@
 package greeting
 
 import (
-	"fmt"
 	"errors"
+	"fmt"
 	"math/rand"
 )
 
-func Hello(name string) (string, error)  {
+func Hello(name string) (string, error) {
 	if name == "" {
 		return "", errors.New("No name provided!")
 	}
@@ -14,7 +14,7 @@ func Hello(name string) (string, error)  {
 	return msg, nil
 }
 
-func Hellos(names []string) (map[string]string, error)  {
+func Hellos(names []string) (map[string]string, error) {
 	msgs := make(map[string]string)
 	for _, name := range names {
 		msg, err := Hello(name)
@@ -27,7 +27,7 @@ func Hellos(names []string) (map[string]string, error)  {
 }
 
 func randomMessage() string {
-	msgs := []string {
+	msgs := []string{
 		"Hi, %v. Welcome!",
 		"Great to see you %v.",
 		"How are you %v?",
